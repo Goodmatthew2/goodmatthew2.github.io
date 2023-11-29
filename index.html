@@ -12,11 +12,18 @@
             body {
                 background-color: black;
             }
+
+            .text {
+                color: #fff;
+            }
         </style>
     </head>
     <body>
         <div class="parent-container">
-            <p style="font-size: 50px; color: white;">Hello World!</p>
+            <p class="text" style="font-size: 75px;">Hello World!</p>
+        </div>
+        <div class="parent-container">
+            <a class="text" style="display: block;">temporary page until i think of what to make</a>
         </div>
     </body>
 
@@ -26,11 +33,26 @@
     <!-- SCM Music Player script end -->
 
     <script>
+        function playmusic() {
+                SCM.play();
+                // API Documentation: https://github.com/cshum/scm-music-player
+
+                console.log("Starting SCM... (autoplay fix)");
+                document.removeEventListener("click", playmusic); // This is so that the song doesn't play again when someone clicks in the page again.
+        }
+
         document.addEventListener("DOMContentLoaded", function() {
+<<<<<<< HEAD
             var playButton = document.getElementById("play");
             document.addEventListener("click", function() {
                 playButton.click();
             });
+=======
+            // This DOMContentLoaded probably is useless and will mess up in the future (hopefully not..)
+            // What I'll probably do in the future is add a interaction button before being able to interact with the page
+            // I'll take it from OMFGDOGS.com
+            document.addEventListener("click", playmusic); // this is to bypass the DOMException in change that the user has to interact with the page first.
+>>>>>>> 1a0b470 (autoplay WHAAHAHAHAHAH)
         });
     </script>
 </html>
