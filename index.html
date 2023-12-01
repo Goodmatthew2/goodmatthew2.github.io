@@ -1,8 +1,18 @@
 <html lang="en">
     <head>
+        <div id="overlay" class="container" onclick="off()">
+            <h1>bob</h1>
+        </div>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style>
+            .container {
+                width: 100%;
+                height: 100%;
+                text-align: center;
+                background-color: rgba(0,0,0,0.8);
+            }
+
             .parent-container {
                 display: flex;
                 justify-content: center;
@@ -29,7 +39,7 @@
 
     <!-- SCM Music Player https://www.scmplayer.net -->
     <script type="text/javascript" src="https://www.scmplayer.net/script.js" 
-    data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':false,'shuffle':false,'repeat':0,'placement':'bottom','showplaylist':false,'playlist':[{'title':'T.L. Ako Sa%27Yo - Cinderella (MIDI)','url':'https://raw.githubusercontent.com/Goodmatthew2/goodmatthew2.github.io/main/aud/tl_ako_sayo.mp3'},{'title':'Yesterday Once More - Carpenters (MIDI)','url':'https://raw.githubusercontent.com/Goodmatthew2/goodmatthew2.github.io/main/aud/Yesterday_Once_More.mp3'},{'title':'Dancing Queen - ABBA (MIDI)','url':'https://raw.githubusercontent.com/Goodmatthew2/goodmatthew2.github.io/main/aud/Dancing_Queen.mp3'},{'title':'C418 - Key','url':'https://raw.githubusercontent.com/Goodmatthew2/goodmatthew2.github.io/main/aud/Key.mp3'},{'title':'Payphone - Maroon 5','url':'https://dl.dropboxusercontent.com/scl/fi/805zq3xozzhjyxr52xbi1/Payphone_Clean.mp3?rlkey=yor58qbfib2xhk8vmlhgpj4yf'},{'title':'It%27s Over Isn%27t It (Instrumental)','url':'https://raw.githubusercontent.com/Goodmatthew2/goodmatthew2.github.io/main/aud/Its_Over_Isnt_It.mp3'},{'title':'Love Like You (Instrumental)','url':'https://raw.githubusercontent.com/Goodmatthew2/goodmatthew2.github.io/main/aud/Love_Like_You.mp3'}]}" ></script>
+    data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':false,'shuffle':false,'repeat':0,'placement':'bottom','showplaylist':false,'playlist':[{'title':'T.L. Ako Sa%27Yo - Cinderella (MIDI)','url':'https://raw.githubusercontent.com/Goodmatthew2/goodmatthew2.github.io/main/aud/tl_ako_sayo.mp3'},{'title':'Yesterday Once More - Carpenters (MIDI)','url':'https://raw.githubusercontent.com/Goodmatthew2/goodmatthew2.github.io/main/aud/Yesterday_Once_More.mp3'},{'title':'Dancing Queen - ABBA (MIDI)','url':'https://raw.githubusercontent.com/Goodmatthew2/goodmatthew2.github.io/main/aud/Dancing_Queen.mp3'},{'title':'C418 - Key','url':'https://raw.githubusercontent.com/Goodmatthew2/goodmatthew2.github.io/main/aud/Key.mp3'},{'title':'Payphone - Maroon 5','url':'https://dl.dropboxusercontent.com/scl/fi/805zq3xozzhjyxr52xbi1/Payphone_Clean.mp3?rlkey=yor58qbfib2xhk8vmlhgpj4yf'},{'title':'It%27s Over Isn%27t It (Instrumental)','url':'https://raw.githubusercontent.com/Goodmatthew2/goodmatthew2.github.io/main/aud/Its_Over_Isnt_It.mp3'},{'title':'Love Like You (Instrumental)','url':'https://raw.githubusercontent.com/Goodmatthew2/goodmatthew2.github.io/main/aud/Love_Like_You.mp3'},{'title':'Swagger Jagger - Cher Lloyd','url':'https://goodmatthew2.github.io/aud/Swagger_Jagger.mp3'}]}" ></script>
     <!-- SCM Music Player script end -->
 
     <script>
@@ -42,17 +52,10 @@
         }
 
         document.addEventListener("DOMContentLoaded", function() {
-<<<<<<< HEAD
-            var playButton = document.getElementById("play");
-            document.addEventListener("click", function() {
-                playButton.click();
-            });
-=======
             // This DOMContentLoaded probably is useless and will mess up in the future (hopefully not..)
             // What I'll probably do in the future is add a interaction button before being able to interact with the page
             // I'll take it from OMFGDOGS.com
             document.addEventListener("click", playmusic); // this is to bypass the DOMException in change that the user has to interact with the page first.
->>>>>>> 1a0b470 (autoplay WHAAHAHAHAHAH)
         });
     </script>
 </html>
