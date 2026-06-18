@@ -1,0 +1,13 @@
+name = "Create Modpack With Bros"
+author = "goodmatthew2"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d0e105e817eee6e337ee1ff9095ec7bea09c7a50f1ec3b708530358bce81c158"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"
