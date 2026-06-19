@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "3595ba816c9ef014350d0072b90715d99cda633c0b3c8aee7a64ce3402ade5de"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true
@@ -11,8 +21,18 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "b8871b2a91d1eb68d187060e8f6e34d9cd2b407677587e9481b4b9eb042afab0"
 metafile = true
 
 [[files]]
@@ -28,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/distant-friends.pw.toml"
 hash = "37d5639f84b400f308d7e4a2318164f98d5e2db005670ca95c40dd90f109a80a"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
 metafile = true
 
 [[files]]
@@ -56,8 +81,23 @@ hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
+metafile = true
+
+[[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "a5171f661eb50b84152c265c1458698394b484225c75db459016738f761beb08"
 metafile = true
 
 [[files]]
@@ -76,8 +116,23 @@ hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "92123fa28c660844e36b9b410ab771ab3bb643915a01dbc81e52388c8e620b0b"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
 metafile = true
 
 [[files]]
@@ -111,8 +166,23 @@ hash = "7e3bead730c077ab6ff936e48ec95c9d0ce89bb0bb4b1dfcd9d76a7f01b0bd3f"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "cbbc06cd921b629776f574566af0b5dbd58819fad7513cfaac2967d3fb750845"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024"
+metafile = true
+
+[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "a30086884843ddcd5b0f5d3d82d0942341c8bdc09adf3198a0621ab4751f7c16"
 metafile = true
 
 [[files]]
