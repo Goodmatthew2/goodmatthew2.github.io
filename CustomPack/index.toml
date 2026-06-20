@@ -1,15 +1,19 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+file = "configureddefaults/README.md"
+hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
+file = "configureddefaults/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "64bf511f263c8ceedfb081502bbc0ab137b7a833c7cf819f023d35130099290c"
+file = "configureddefaults/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "d99954519455f0b314c2188e58f87ba0112cd31b1813860df1b0ab59ffa72975"
 
 [[files]]
-file = "config/inventoryprofilesnext/villager-trading-config-v2.json"
+file = "configureddefaults/config/inventoryprofilesnext/villager-trading-config-v2.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
@@ -30,6 +34,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
 metafile = true
 
 [[files]]
