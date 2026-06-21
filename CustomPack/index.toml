@@ -67,6 +67,11 @@ hash = "e55818e04fcaeb7bc0edce1cec106bc88cfd56d2bdbcc228fb374f797ef598cc"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+metafile = true
+
+[[files]]
 file = "mods/distant-friends.pw.toml"
 hash = "37d5639f84b400f308d7e4a2318164f98d5e2db005670ca95c40dd90f109a80a"
 metafile = true
@@ -117,6 +122,11 @@ hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
@@ -149,6 +159,11 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "92123fa28c660844e36b9b410ab771ab3bb643915a01dbc81e52388c8e620b0b"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "2e8064e6ac6f707d6df65ee2738279ec31802ef70514584bb8c8a8ed2010f5f6"
 metafile = true
 
 [[files]]
