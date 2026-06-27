@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/tailmod.pw.toml"
-hash = "93561b941e334a1301dc1f6936154e3eb70692acbd9a2d9afba3a1b192820f53"
+hash = "5a869db0803d8b4158b681db3feed32440ccc7db73d3ddaf077a42e95206b195"
 metafile = true
 
 [[files]]
