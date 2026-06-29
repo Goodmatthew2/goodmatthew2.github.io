@@ -100,6 +100,11 @@ hash = "3595ba816c9ef014350d0072b90715d99cda633c0b3c8aee7a64ce3402ade5de"
 metafile = true
 
 [[files]]
+file = "mods/bobby-reneoforged.pw.toml"
+hash = "be92440f9df0b43195a182f7073765220c43a3425d807784e2cde3a957ae1950"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true
