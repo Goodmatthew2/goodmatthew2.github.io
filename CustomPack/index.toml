@@ -82,7 +82,7 @@ hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
 file = "configureddefaults/config/quickskin-client.json"
-hash = "80c4cddeb5d34cb76c542d64307479338502dd68795b9d6967c2e190a9d3e8c8"
+hash = "1056a3be42b955c3c804104200a9894f9d6700d5d89c771e822deae780e3ff93"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
