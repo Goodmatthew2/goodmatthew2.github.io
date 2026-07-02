@@ -1,13 +1,8 @@
 name = "IamMusicPlayer Renewed"
-filename = "neoforge-3.23.1-1.21.1-beta2.jar"
+filename = "neoforge-3.24.2-1.21.1-alpha3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b726e9b45fced1ec1821e09381323cbab7624c93"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8026686
-project-id = 1199214
+url = "https://dl.dropboxusercontent.com/scl/fi/dfivumnufzs2lw65ppusx/neoforge-3.24.2-1.21.1-alpha3.jar?rlkey=cei3a3ba57pkye5acocs5s4rs&st=22ujmfn6&dl=0"
+hash-format = "sha256"
+hash = "c297c31da73c6f33714ad6b0d2be73bc2325fd7c6385595b97a275f33aa1ee02"
