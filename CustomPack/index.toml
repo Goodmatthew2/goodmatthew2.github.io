@@ -399,3 +399,18 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
+
+[[files]]
+file = "tacz/cyber-armorer-gunpack.pw.toml"
+hash = "c801738c955c6413f5344b1dcfa1169c4be081c03f2787eb2dfd87cc77f81d22"
+metafile = true
+
+[[files]]
+file = "tacz/helldiver2-gunpack.pw.toml"
+hash = "7d864318c461736e217b427b2f42ca019eaaebe19eba2b96c80b1028cbbaf570"
+metafile = true
+
+[[files]]
+file = "tacz/thedivision-gunpack.pw.toml"
+hash = "44aa9bce83d1a513daef326f7b9d08de00f4985e2868ea50bced2be6d59928ca"
+metafile = true

@@ -1,0 +1,8 @@
+name = "TheDivision-Gunpack"
+filename = "The-Division-pack_ver.0.3.3.zip"
+side = "both"
+
+[download]
+url = "https://dl.dropboxusercontent.com/scl/fi/1ii8iubgwwo1fsgw62qmw/The-Division-pack_ver.0.3.3.zip?rlkey=224l2lu5ou052vngszk2mewgu&st=85yoffet&dl=0"
+hash-format = "sha256"
+hash = "3496f2b06d0ec504af6826eb508553dd19d1b69a9734a75ed0c4452d277fb76f"

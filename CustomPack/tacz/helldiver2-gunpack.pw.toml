@@ -1,0 +1,8 @@
+name = "HellDiver2-Gunpack"
+filename = "HellDiver2-Gunpack-v1.1.4-for114.zip"
+side = "both"
+
+[download]
+url = "https://dl.dropboxusercontent.com/scl/fi/p1ng1hbecrhpqcvf7uis9/HellDiver2-Gunpack-v1.1.4-for114.zip?rlkey=oqnmq5u1rnkfy048roeaso651&st=pap4cmbs&dl=1"
+hash-format = "sha256"
+hash = "a3c0146f4db305984deb68a255b423ed1dd3dee598cc7510f5dc646d5ee4bdf8"

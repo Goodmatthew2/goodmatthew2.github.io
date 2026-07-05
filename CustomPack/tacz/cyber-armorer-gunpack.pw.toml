@@ -1,0 +1,8 @@
+name = "Cyber-Armorer-Gunpack"
+filename = "Cyber-Armorer-1.1.5_for114.zip"
+side = "both"
+
+[download]
+url = "https://dl.dropboxusercontent.com/scl/fi/d9p3jofqpag6474kt8pef/Cyber-Armorer-1.1.5_for114.zip?rlkey=yfrgoqzhmd2qex9ddcru569y3&st=enhqslwd&dl=0"
+hash-format = "sha256"
+hash = "9efddca5af19c47df07663fd85388ca5cedb372ee88d097622bcd31bba79a512"
