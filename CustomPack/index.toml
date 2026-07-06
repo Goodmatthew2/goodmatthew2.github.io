@@ -286,6 +286,11 @@ hash = "0dec4f2c23d1d165ccf0ed6ac95cf698290a8ecce2620fb491d25292e7f0faf3"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "3c4fbbd6d5cfcb5ac1faaf56fc85ae79194f3c0155013afc39e4fed20a3812c1"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
@@ -402,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "tacz/cyber-armorer-gunpack.pw.toml"
-hash = "c801738c955c6413f5344b1dcfa1169c4be081c03f2787eb2dfd87cc77f81d22"
+hash = "a80684871229c21bc3d43c69e65f87bb15ec03306fdc833178e4af2633a5d914"
 metafile = true
 
 [[files]]
