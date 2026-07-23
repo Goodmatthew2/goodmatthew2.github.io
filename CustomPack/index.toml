@@ -106,6 +106,11 @@ hash = "be92440f9df0b43195a182f7073765220c43a3425d807784e2cde3a957ae1950"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true
