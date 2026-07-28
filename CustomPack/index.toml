@@ -331,6 +331,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
+metafile = true
+
+[[files]]
 file = "mods/otyacraft-engine-renewed.pw.toml"
 hash = "0dec4f2c23d1d165ccf0ed6ac95cf698290a8ecce2620fb491d25292e7f0faf3"
 metafile = true
