@@ -1,0 +1,13 @@
+name = "[TaCZ]FMIC-WolfeinRace GunsPack"
+filename = "[Tacz1.1.8+]FMIC-WolfeinRace Gunspack v1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ae855d490d4899dce84b258e40002157ae14b16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8220715
+project-id = 1569525

@@ -436,6 +436,11 @@ hash = "6f3afa4d434d61b2c08310e687673fdfe56cee59e245c06f8bcccaf16a682344"
 metafile = true
 
 [[files]]
+file = "mods/tacz-pack-upgrader.pw.toml"
+hash = "3d0b074e48b5f60b31aaa32887ab1e64c64e4e1ab2b5ebdbfa2d3b3a64981be6"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "cbbc06cd921b629776f574566af0b5dbd58819fad7513cfaac2967d3fb750845"
 metafile = true
@@ -548,6 +553,16 @@ metafile = true
 [[files]]
 file = "tacz/helldiver2-gunpack.pw.toml"
 hash = "7d864318c461736e217b427b2f42ca019eaaebe19eba2b96c80b1028cbbaf570"
+metafile = true
+
+[[files]]
+file = "tacz/tacz-fmic-wolfeinrace-gunspack.pw.toml"
+hash = "df28fd0a7eaad4cea9e8b69f21a55b3298e4b46faa648192307f92847a268dbb"
+metafile = true
+
+[[files]]
+file = "tacz/tacz-ms-mobius-gunpack.pw.toml"
+hash = "0bbabf3805aba09b643d5997fc29717b4018b5331769f2d59c6b6f950c30b3d0"
 metafile = true
 
 [[files]]

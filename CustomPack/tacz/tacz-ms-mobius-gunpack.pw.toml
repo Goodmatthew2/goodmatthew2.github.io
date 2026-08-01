@@ -1,0 +1,13 @@
+name = "[TaCZ]MS-Mobius gunpack"
+filename = "[Tacz1.1.8+]MS-Mobius Gunspack v1.5.8.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d75d83be25b8dedc5cae6e2b210053f47a5ca4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8298042
+project-id = 1287059
