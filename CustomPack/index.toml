@@ -236,6 +236,11 @@ hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
 metafile = true
@@ -331,8 +336,13 @@ hash = "efafea92ef966ffe7c3c31209b643a9bbcccb3a8a5a02347b49ff50e015980fe"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-turrets-fences.pw.toml"
+hash = "8039fa887a13b540132d764c3d0642c9ef2d47bad23e78139e581cddc05fb70a"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
-hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
+hash = "290b13afab94146d1159d821b73c8c98f5299b4df75fd28e826f9fd409e9bb40"
 metafile = true
 
 [[files]]
