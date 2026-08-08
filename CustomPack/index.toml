@@ -81,6 +81,11 @@ file = "configureddefaults/config/inventoryprofilesnext/villager-trading-config-
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "361a6afe298a1a3265be267647ce95ae1743306a9b9e416c71887ca33ea14838"
+metafile = true
+
+[[files]]
 file = "mods/ae2-jei-integration.pw.toml"
 hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
 metafile = true
@@ -196,6 +201,11 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "3424bdca726083f295faf95870da7864ad79db93afc8935d7db26d77698d0bca"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "1aae289a9ea80026bb8fb3d4754bfa60760c794c69cf8829ae23637b55c99efc"
 metafile = true
@@ -238,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
 metafile = true
 
 [[files]]
@@ -461,6 +476,11 @@ hash = "7e3bead730c077ab6ff936e48ec95c9d0ce89bb0bb4b1dfcd9d76a7f01b0bd3f"
 metafile = true
 
 [[files]]
+file = "mods/super-factory-manager.pw.toml"
+hash = "c2ce0fb5f77dad39fc9ef103b3a30a8131faa202ab344cb98b399f2704ba8bc2"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -598,6 +618,11 @@ metafile = true
 [[files]]
 file = "tacz/helldiver2-gunpack.pw.toml"
 hash = "7d864318c461736e217b427b2f42ca019eaaebe19eba2b96c80b1028cbbaf570"
+metafile = true
+
+[[files]]
+file = "tacz/tacz-doom-pack.pw.toml"
+hash = "a15151f1e40c076c01004e2f219f25e2f8823abbda242ef9b837f7861554294a"
 metafile = true
 
 [[files]]
