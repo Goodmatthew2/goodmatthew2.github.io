@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "tacz/tacz-doom-pack.pw.toml"
-hash = "a15151f1e40c076c01004e2f219f25e2f8823abbda242ef9b837f7861554294a"
+hash = "847ce929315bfab5996a7e2706bee1c896c367a39c7e1e015966141d8832678a"
 metafile = true
 
 [[files]]

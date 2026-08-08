@@ -1,13 +1,8 @@
-name = "[TaCZ] Doom Pack"
-filename = "Doom pack v1.1.2.zip"
+name = "tacz-doom-pack"
+filename = "Doom-pack-v1.1.2.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eaab6f9379288740e3cc96c3b5e1bd433d6658b8"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6678283
-project-id = 1184862
+url = "https://dl.dropboxusercontent.com/scl/fi/izra4kvr75jo4ecy6dtlt/Doom-pack-v1.1.2.zip?rlkey=zi08mjz3qrkuycs81yyamgh6l&st=hjyorup0&dl=0"
+hash-format = "sha256"
+hash = "b672ad023bd9ff3bd076f868e3e95eb739ef91362a7d5e9f94ca08443f13e8d4"
