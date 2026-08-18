@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "334dc69e48cccf3db4acab72d08d20cb450dffe80129b283239add8132ab20a0"
+hash = "df0ead352fcdb053129350eff3fc797bc038e89caadaf4a660fa5169f296039a"
 metafile = true
 
 [[files]]

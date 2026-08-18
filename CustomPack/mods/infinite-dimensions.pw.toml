@@ -1,13 +1,8 @@
-name = "Infinite Dimensions"
-filename = "infinity-2.7.2+1.21.1-neoforge.jar"
+name = "infinite-dimensions"
+filename = "infinity-2.7.2-1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2a1185a9ae5ac9747dc0285304c870e8d4d9534c"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8409189
-project-id = 981829
+url = "https://dl.dropboxusercontent.com/scl/fi/g9o3imgok2rp5mmf01qq4/infinity-2.7.2-1.21.1-neoforge.jar?rlkey=dk148csgwivhhf0gbj72titk0&st=ge1fbuwn&dl=0"
+hash-format = "sha256"
+hash = "6e52e12bfd3249694abcf9768b8aa5c2044359acee697f0fc05fc6bd3dcd114b"
