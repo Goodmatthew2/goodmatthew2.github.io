@@ -276,6 +276,11 @@ hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
 metafile = true
 
 [[files]]
+file = "mods/gunsmith-lib.pw.toml"
+hash = "8ca8f24ba1fc51900c54ec7624037791d1327bb616a889ccac815e58bcc0a1c4"
+metafile = true
+
+[[files]]
 file = "mods/iammusicplayer-renewed.pw.toml"
 hash = "85770c08527df652ab0d8f7b0d94eacfbf757b13b74bc40d88c04581a50c50f5"
 metafile = true
