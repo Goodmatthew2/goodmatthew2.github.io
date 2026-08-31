@@ -266,6 +266,11 @@ hash = "55c21e0159f5509b84d1e1fa42c2e478a3600c43007ede829cad5839aaa1b8da"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "3e5de7cfbc6b0dd1efadde34b25d1613e58dc29e0fbcc8aee1a9a7daa4f99f1a"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
 metafile = true
@@ -683,6 +688,21 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-neoforge.pw.toml"
 hash = "cd321f6365bc3938e0671450aadcd40c8e03af5cb24d0a545fb07c890b4793ac"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-modelling.pw.toml"
+hash = "af5fc859033dc60c2673894575849c77ae469e163b2580651bf30a92653a928d"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-townscape.pw.toml"
+hash = "e458fce2ec0a1e0a8641b1d9fc4ee104b3c2f1a58c39fa8945a836eceae48936"
+metafile = true
+
+[[files]]
+file = "resourcepacks/yuushya-16x.pw.toml"
+hash = "4eef68254b4ca789c478df3b324ae83ee118bf5fa6530c052589346b0ed5b9ca"
 metafile = true
 
 [[files]]
