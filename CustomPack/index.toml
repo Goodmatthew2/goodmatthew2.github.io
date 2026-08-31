@@ -306,6 +306,11 @@ hash = "4efdc3a8dbe691136c0a07d4ba16c62d3f21efdf05e8c17c6adbab4485c67f78"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "7f8fdc1a570000b9e4fb07a77447b5579266848b7486f6b8992ac4506d8e2524"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "7f6ae4d2dcca5f1380319e67e0a8d442ab4b653c1a2c4ecf2d21d7bd3609cf8e"
 metafile = true
